@@ -15,6 +15,11 @@ Google analytics API 를 사용하여 개발을 했더니
 대안으로 Headless browser 를 사용하여 해 보자!라는 생각으로  
 기반이 되는 오픈소스를 검색 후 fork 하여 수정하였습니다.
 
+## 기술 스택
+
+* NodeJS
+* CasperJS
+
 ## 설치
 
 본 저장소를 clone 하시고
